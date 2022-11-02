@@ -27,8 +27,8 @@ if 'BYBIT' in config['EXCHANGES']:
 
     session = HTTP(
         endpoint='https://api.bybit.com',
-        api_key=config['EXCHANGES']['BYBIT']['API_KEY'],
-        api_secret=config['EXCHANGES']['BYBIT']['API_SECRET']
+        api_key=config['EXCHANGES']['BYBIT']['GAcS2vVNnlUGSEOKYO'],
+        api_secret=config['EXCHANGES']['BYBIT']['KBSwK4PivNboogVpaaEEovQEENPl9sZySB8x']
     )
 
 use_binance_futures = False
