@@ -2,8 +2,8 @@
    "KEY": 12345,
    "EXCHANGES": {
         "BYBIT": {
-             "API_KEY": "api-key-goes-here",
-             "API_SECRET": "api-secret-goes-here",
+             "API_KEY": "GAcS2vVNnlUGSEOKYO",
+             "API_SECRET": "KBSwK4PivNboogVpaaEEovQEENPl9sZySB8x",
              "ENABLED": true
         },
         "BINANCE-FUTURES": {
